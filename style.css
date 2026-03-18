@@ -113,9 +113,7 @@ body{
     width: 500px;
     vertical-align: middle;
 }
-.skill, 
-.project, 
-.experience{
+.skill, .project, .experience{
     margin-bottom: 100px;
 
 }
@@ -147,9 +145,7 @@ body{
     color: #0E0E0E70;
     margin-bottom: 20px;
 }
-.experience{
-    
-}
+
 .brands{
     padding: 40px;
     background-color: white;
