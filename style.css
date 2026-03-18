@@ -24,10 +24,9 @@ body{
 .navbar-container>li>a {
     text-decoration: none;
     color: rgb(10, 2, 2);
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bolder;
-    font-size: 16px;
-    border-radius: 10px
+    border-radius: 10px;
 }
 .nav-item{
     list-style-type: none;
